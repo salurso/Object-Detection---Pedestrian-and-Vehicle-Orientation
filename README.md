@@ -2,7 +2,7 @@
 
 ## Descrizione
 
-Questo progetto implementa un sistema di **object detection in tempo reale** per la piattaforma **Picar-X** con **Raspberry Pi**, in grado di rilevare pedoni e determinare l'orientamento dei veicoli (fronte, retro, lato sinistro, lato destro). Il sistema utilizza un modello **YOLOv11s** ottimizzato per ambienti embedded tramite conversione in **ONNX**.
+Questo paper presenta lo sviluppo di un sistema di object detection in tempo reale per la piattaforma Picar-X basata su Raspberry Pi, in grado di rilevare pedoni e determinare l’orientamento dei veicoli (anteriore, posteriore, lato sinistro, lato destro). Il sistema si basa su un modello YOLOv11s ottimizzato per ambienti embedded mediante conversione nel formato **ONNX**.
 
 ## Caratteristiche
 
